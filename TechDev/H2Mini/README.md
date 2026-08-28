@@ -17,7 +17,7 @@ The R&D project for H2MINI aims to design a self-sufficient (off-grid) charging 
 
 ### H2MINI — Hydrogen-Powered DC Charging Station
 
-![h2mini](https://drive.google.com/file/d/1pqDcvSiBaJG_SEbkY2bgmf-fyzJeARlt/view?usp=sharing)
+![h2mini](https://github.com/Meaningful-Design-Group/Hydrogen-Village/edit/main/TechDev/H2Mini/DSC04101.jpg)
 
 Hydrogen can be used to create green hydrogen, an energy source capable of producing energy without emitting smoke, fumes, or carbon emissions. Unlike petrol, which can only be bought at conventional petrol stations, green hydrogen can be generated from renewable sources like sunlight, water, and organic waste.
 
